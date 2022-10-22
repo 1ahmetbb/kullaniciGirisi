@@ -1,0 +1,13 @@
+C:\Users\13ahm\source\repos\kullaniciGirisi2\kullaniciGirisi2\bin\Debug\kullaniciGirisi2.exe.config
+C:\Users\13ahm\source\repos\kullaniciGirisi2\kullaniciGirisi2\bin\Debug\kullaniciGirisi2.exe
+C:\Users\13ahm\source\repos\kullaniciGirisi2\kullaniciGirisi2\bin\Debug\kullaniciGirisi2.pdb
+C:\Users\13ahm\source\repos\kullaniciGirisi2\kullaniciGirisi2\obj\Debug\kullaniciGirisi2.csproj.AssemblyReference.cache
+C:\Users\13ahm\source\repos\kullaniciGirisi2\kullaniciGirisi2\obj\Debug\kullaniciGirisi2.csproj.SuggestedBindingRedirects.cache
+C:\Users\13ahm\source\repos\kullaniciGirisi2\kullaniciGirisi2\obj\Debug\kullaniciGirisi2.Form1.resources
+C:\Users\13ahm\source\repos\kullaniciGirisi2\kullaniciGirisi2\obj\Debug\kullaniciGirisi2.Properties.Resources.resources
+C:\Users\13ahm\source\repos\kullaniciGirisi2\kullaniciGirisi2\obj\Debug\kullaniciGirisi2.csproj.GenerateResource.cache
+C:\Users\13ahm\source\repos\kullaniciGirisi2\kullaniciGirisi2\obj\Debug\kullaniciGirisi2.csproj.CoreCompileInputs.cache
+C:\Users\13ahm\source\repos\kullaniciGirisi2\kullaniciGirisi2\obj\Debug\kullaniciGirisi2.exe
+C:\Users\13ahm\source\repos\kullaniciGirisi2\kullaniciGirisi2\obj\Debug\kullaniciGirisi2.pdb
+C:\Users\13ahm\source\repos\kullaniciGirisi2\kullaniciGirisi2\obj\Debug\kullaniciGirisi2.Form2.resources
+C:\Users\13ahm\source\repos\kullaniciGirisi2\kullaniciGirisi2\obj\Debug\kullaniciGirisi2.Form3.resources
